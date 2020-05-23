@@ -1,0 +1,282 @@
+{
+  "ret": true,
+  "data": {
+    "navList": [
+      {
+        "title": "成电印记",
+        "list": ["官网汇总", "相关网站"
+        ]
+      },
+      {
+        "title": "校园助手",
+        "list": ["联系方式", "生活助手"
+        ]
+      },
+      {
+        "title": "学习平台",
+        "list": ["学在成电", "网课学习", "资料获取", "论坛问答"
+        ]
+      },
+      {
+        "title": "成电社交",
+        "list": ["官方账号", "社交平台"
+        ]
+      }
+    ],
+    "units": [
+      {
+        "unitTitleImg": "static/imgs/成电印记.png",
+        "classList": [
+          {
+            "classTitle": "官网汇总",
+            "linkList": [{
+              "linkTitle": "UESTC官网",
+              "url": "https://www.uestc.edu.cn/" 
+            },{
+              "linkTitle": "学院官网导航",
+              "url": "https://www.uestc.edu.cn/f4f992a6cd67e0a1d4847f173117a1f8.html" 
+            }, {
+              "linkTitle": "部门官网导航",
+              "url": "https://www.uestc.edu.cn/bfc0977ed027bd7869499ab8ba6b4f55.html" 
+            },{
+              "linkTitle": "研究院官网导航",
+              "url": "https://www.uestc.edu.cn/6a70d7321fc0343f292c8c6d3cae5164.html" 
+            },{
+              "linkTitle": "国家级科研机构",
+              "url": "https://www.uestc.edu.cn/b164b5e30233b9971fc71df26f960f59.html" 
+            }
+          ]
+        }, {
+          "classTitle": "相关网站",
+          "linkList": [{
+            "linkTitle": "信息门户",
+            "url": "http://portal.uestc.edu.cn/" 
+          },{
+            "linkTitle": "信息中心",
+            "url": "https://info.uestc.edu.cn/" 
+          }, {
+            "linkTitle": "教务处",
+            "url": "http://www.jwc.uestc.edu.cn/Index.action" 
+          },{
+            "linkTitle": "教务系统",
+            "url": "http://eams.uestc.edu.cn/eams/home!submenus.action?menu.id=" 
+          },{
+            "linkTitle": "后勤保障部",
+            "url": "https://hq.uestc.edu.cn/web/detail.jsp?article_id=4645" 
+          },{
+            "linkTitle": "计划财务处",
+            "url": "http://www.jcc.uestc.edu.cn/" 
+          },{
+            "linkTitle": "图书馆",
+            "url": "http://www.lib.uestc.edu.cn/" 
+          },{
+            "linkTitle": "国际交流合作处",
+            "url": "http://www.oice.uestc.edu.cn/" 
+          },{
+            "linkTitle": "档案馆",
+            "url": "https://www.dag.uestc.edu.cn/index.htm" 
+          },{
+            "linkTitle": "一卡通",
+            "url": "http://ecard.uestc.edu.cn/" 
+          },{
+            "linkTitle": "学生咨询服务中心",
+            "url": "http://service.uestc.edu.cn/" 
+          },{
+            "linkTitle": "成电新闻",
+            "url": "https://news.uestc.edu.cn/" 
+          },{
+            "linkTitle": "教师主页",
+            "url": "http://faculty.uestc.edu.cn/index.jsp" 
+          }
+          ]
+        }]},
+        {
+          "unitTitleImg": "static/imgs/校园助手.png",
+          "classList": [
+            {
+              "classTitle": "联系方式",
+              "linkList": [{
+                "linkTitle": "教师主页",
+                "url": "http://faculty.uestc.edu.cn/index.jsp" 
+              },{
+                "linkTitle": "后勤留言",
+                "url": "https://hq.uestc.edu.cn/yzs/commentSite/commentSiteIndex" 
+              }, {
+                "linkTitle": "教务留言",
+                "url": "http://www.jwc.uestc.edu.cn/web/Message!queryList.action" 
+              },{
+                "linkTitle": "电话汇总",
+                "url": "http://service.uestc.edu.cn/consult/phoneList" 
+              },{
+                "linkTitle": "校长信箱",
+                "url": "http://www.uestc.edu.cn/PublicMail/xiaozhang.php" 
+              },{
+                "linkTitle": "学院联系方式",
+                "url": "http://www.jwc.uestc.edu.cn/web/News!view.action?id=62" 
+              },{
+                "linkTitle": "机关联系方式",
+                "url": "http://www.jwc.uestc.edu.cn/web/News!view.action?id=63" 
+              },{
+                "linkTitle": "学生邮件系统",
+                "url": "http://mail.std.uestc.edu.cn/" 
+              },{
+                "linkTitle": "教师邮件系统",
+                "url": "https://mail.uestc.edu.cn/coremail/index.jsp" 
+              }
+              ]
+            },{
+              "classTitle": "生活助手",
+              "linkList": [{
+                "linkTitle": "培养方案",
+                "url": "http://eams.uestc.edu.cn/eams/programDoc!info.action?majorPlan.id=3058" 
+              },{
+                "linkTitle": "一卡通",
+                "url": "http://ecard.uestc.edu.cn/" 
+              }, {
+                "linkTitle": "作息时间",
+                "url": "http://www.jwc.uestc.edu.cn/web/News!view.action?id=1147" 
+              },{
+                "linkTitle": "地图",
+                "url": "http://ditu.uestc.edu.cn/" 
+              },{
+                "linkTitle": "调停课通知",
+                "url": "http://www.jwc.uestc.edu.cn/web/News!queryList.action?partId=ff80808162725856016275af1f60005c" 
+              },{
+                "linkTitle": "校车时刻",
+                "url": "http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1430861" 
+              },{
+                "linkTitle": "校历",
+                "url": "http://www.jwc.uestc.edu.cn/web/News!view.action?id=1224" 
+              },{
+                "linkTitle": "河畔二手",
+                "url": "http://bbs.uestc.edu.cn/forum.php?mod=forumdisplay&fid=61" 
+              },{
+                "linkTitle": "河畔就业",
+                "url": "http://bbs.uestc.edu.cn/forum.php?mod=forumdisplay&fid=174" 
+              }
+              ]
+            }
+          ]
+        }, {
+          "unitTitleImg": "static/imgs/学习平台.png",
+          "classList": [
+            {
+              "classTitle": "学在成电",
+              "linkList": [{
+                "linkTitle": "成电学堂",
+                "url": "http://study.uestc.edu.cn/" 
+              },{
+                "linkTitle": "成电mooc",
+                "url": "http://www.icourse163.org/university/UESTC#/c" 
+              }, {
+                "linkTitle": "书香成电",
+                "url": "http://sxdzkd.chineseall.cn/org/show/index" 
+              },{
+                "linkTitle": "图书馆",
+                "url": "http://www.lib.uestc.edu.cn/" 
+              },{
+                "linkTitle": "自主学习系统",
+                "url": "http://dzkd.superlib.com:84/" 
+              },{
+                "linkTitle": "博约书屋",
+                "url": "http://www.lib.uestc.edu.cn/bysw" 
+              },{
+                "linkTitle": "成电OJ ",
+                "url": "https://acm.uestc.edu.cn/home/" 
+              }
+              ]
+            },{
+              "classTitle": "网课学习",
+              "linkList": [{
+                "linkTitle": "中国大学MOOC",
+                "url": "https://www.icourse163.org/" 
+              },{
+                "linkTitle": "网易公开课",
+                "url": "https://open.163.com/" 
+              }, {
+                "linkTitle": "网易云课堂",
+                "url": "https://study.163.com/" 
+              },{
+                "linkTitle": "新浪公开课",
+                "url": "http://open.sina.com.cn/" 
+              }
+              ]
+            },{
+              "classTitle": "资料获取",
+              "linkList": [{
+                "linkTitle": "中国知网",
+                "url": "https://www.cnki.net/" 
+              },{
+                "linkTitle": "万方数据",
+                "url": "http://www.wanfangdata.com.cn/index.html" 
+              }, {
+                "linkTitle": "图书馆",
+                "url": "http://www.lib.uestc.edu.cn/" 
+              }
+              ]
+            },{
+              "classTitle": "论坛问答",
+              "linkList": [{
+                "linkTitle": "CSDN",
+                "url": "https://edu.csdn.net/" 
+              },{
+                "linkTitle": "博客园",
+                "url": "https://www.cnblogs.com/" 
+              }, {
+                "linkTitle": "开源中国",
+                "url": "https://www.oschina.net/" 
+              },{
+                "linkTitle": "河畔科技专区",
+                "url": "http://bbs.uestc.edu.cn/forum.php?gid=95" 
+              }
+              ]
+            }
+          ]
+        }, {
+          "unitTitleImg": "static/imgs/小电社交.png",
+          "classList": [{
+            "classTitle": "官方账号",
+            "linkList": [{
+              "linkTitle": "清水河畔",
+              "url": "http://bbs.uestc.edu.cn/" 
+            },{
+              "linkTitle": "微博",
+              "url": "https://weibo.com/u/3982954755" 
+            }, {
+              "linkTitle": "抖音",
+              "url": "https://www.iesdouyin.com/share/user/99338709447" 
+            },{
+              "linkTitle": "哔哩哔哩",
+              "url": "https://space.bilibili.com/238190151" 
+            },{
+              "linkTitle": "贴吧",
+              "url": "http://tieba.baidu.com/f?kw=电子科技大学" 
+            },{
+              "linkTitle": "知乎",
+              "url": "https://www.zhihu.com/topic/19619062/hot" 
+            }
+          ]
+        }, {
+          "classTitle": "社交平台",
+          "linkList": [
+            {
+              "linkTitle": "微博",
+              "url": "https://weibo.com/" 
+            },{
+              "linkTitle": "微信",
+              "url": "https://wx.qq.com/" 
+            },
+            {
+              "linkTitle": "贴吧",
+              "url": "https://tieba.baidu.com/" 
+            },{
+              "linkTitle": "知乎",
+              "url": "https://www.zhihu.com/signin?next=%2F" 
+            }
+          ]
+        }]
+        }
+    ]
+    
+  }
+}
